@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Geografia.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|solutionrelative:Dim Geografia.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Agencia.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|solutionrelative:Dim Agencia.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Problema.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|solutionrelative:Dim Problema.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Canal.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|solutionrelative:Dim Canal.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Estado.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|solutionrelative:Dim Estado.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|C:\\Users\\p4l0\\source\\repos\\CuboFase1\\DW NYC311.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{36648538-3300-F710-C23C-5891614BF752}|CuboFase1.dwproj|solutionrelative:DW NYC311.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Problema.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Problema.dim",
+              "RelativeDocumentMoniker": "Dim Problema.dim",
+              "ToolTip": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Problema.dim [Design]",
+              "RelativeToolTip": "Dim Problema.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-25T23:56:01.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Agencia.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Agencia.dim",
+              "RelativeDocumentMoniker": "Dim Agencia.dim",
+              "ToolTip": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Agencia.dim [Design]",
+              "RelativeToolTip": "Dim Agencia.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-25T23:55:59.269Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Canal.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Canal.dim",
+              "RelativeDocumentMoniker": "Dim Canal.dim",
+              "ToolTip": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Canal.dim [Design]",
+              "RelativeToolTip": "Dim Canal.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-25T23:55:56.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Estado.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Estado.dim",
+              "RelativeDocumentMoniker": "Dim Estado.dim",
+              "ToolTip": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Estado.dim [Design]",
+              "RelativeToolTip": "Dim Estado.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-25T23:55:49.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Geografia.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Geografia.dim",
+              "RelativeDocumentMoniker": "Dim Geografia.dim",
+              "ToolTip": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\Dim Geografia.dim [Design]",
+              "RelativeToolTip": "Dim Geografia.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-25T23:55:43.894Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DW NYC311.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\DW NYC311.dsv",
+              "RelativeDocumentMoniker": "DW NYC311.dsv",
+              "ToolTip": "C:\\Users\\p4l0\\source\\repos\\CuboFase1\\DW NYC311.dsv [Design]",
+              "RelativeToolTip": "DW NYC311.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T04:48:11.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
